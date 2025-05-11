@@ -15,8 +15,8 @@ A simple web application built with FastAPI that lets you upload a PDF, extracts
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone <your-repo-url>
-   cd <your-repo-folder>
+   git clone https://github.com/thakurcoderz/pdf-to-text.git
+   cd pdf-to-text
    ```
 2. Create and activate a virtual environment (optional but recommended):
    ```bash
